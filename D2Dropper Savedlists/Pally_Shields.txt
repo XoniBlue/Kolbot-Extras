@@ -1,0 +1,24 @@
+{"keyword": "(4),Akaran Targe,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Akaran Targe,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Crown Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Crown Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Kurast Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Kurast Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),protector Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),protectorl Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Royal Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Royal Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Sacred Rondache,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Sacred Rondache,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Sacred Targe,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Sacred Targe,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Aerin Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Aerin Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Heraldic Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Heraldic Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Rondache,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Rondache,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Vortex Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Vortex Shield,45,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Zakarum Shield,44,!Ethereal,!spirit", "occu": "1"}
+{"keyword": "(4),Zakarum Shield,45,!Ethereal,!spirit", "occu": "1"}

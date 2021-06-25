@@ -1,0 +1,3 @@
+{"keyword": "tal rune", "occu": "2"}
+{"keyword": "thul rune", "occu": "2"}
+{"keyword": "Perfect Topaz", "occu": "2"}

@@ -1,0 +1,20 @@
+{"keyword": "(4),flail,!heart", "occu": "1"}
+{"keyword": "(5),crystal sword,!call to arms", "occu": "1"}
+{"keyword": "(4),Phase Blade,!ethereal,!oath", "occu": "1"}
+{"keyword": "(4),Grand Matron Bow,!faith", "occu": "1"}
+{"keyword": "(4),Ward Bow,!faith", "occu": "1"}
+{"keyword": "(4),Diamond Bow,!faith", "occu": "1"}
+{"keyword": "(4),Matriarchal Bow,!faith", "occu": "1"}
+{"keyword": "(4),long sword,!heart", "occu": "1"}
+{"keyword": "(4),Berserker Axe,!ethereal,!famine", "occu": "1"}
+{"keyword": "(5),flail,!call to arms", "occu": "1"}
+{"keyword": "(5),phase blade,!grief", "occu": "1"}
+{"keyword": "(5),Berserker Axe,!doom", "occu": "1"}
+{"keyword": "(5),ettin axe,!rune master", "occu": "1"}
+{"keyword": "(5),Zweihander,!ethereal,!death", "occu": "1"}
+{"keyword": "(5),Colossus Sword,!ethereal,!death", "occu": "1"}
+{"keyword": "(3),Suwayyah,!ethereal,!chaos", "occu": "1"}
+{"keyword": "(3),feral claw,!ethereal,!chaos", "occu": "1"}
+{"keyword": "(3),greater talons,!ethereal,!chaos", "occu": "1"}
+{"keyword": "(3),runic talons,!ethereal,!chaos", "occu": "1"}
+{"keyword": "(3),greater claws,!ethereal,!chaos", "occu": "1"}

@@ -1,0 +1,3 @@
+{"keyword": "ral rune", "occu": "2"}
+{"keyword": "sol rune", "occu": "2"}
+{"keyword": "Perfect emerald", "occu": "2"}
