@@ -1,5 +1,0 @@
-{"keyword": "ral rune", "occu": "2"}
-{"keyword": "tir rune", "occu": "2"}
-{"keyword": "tal rune", "occu": "2"}
-{"keyword": "sol rune", "occu": "2"}
-{"keyword": "hel rune", "occu": "2"}

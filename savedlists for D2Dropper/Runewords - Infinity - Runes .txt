@@ -1,4 +1,0 @@
-{"keyword": "ber rune", "occu": "2"}
-{"keyword": "mal rune", "occu": "2"}
-{"keyword": "ber rune", "occu": "2"}
-{"keyword": "ist rune", "occu": "2"}

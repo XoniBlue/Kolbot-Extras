@@ -1,3 +1,0 @@
-{"keyword": "ral rune", "occu": "2"}
-{"keyword": "thul rune", "occu": "2"}
-{"keyword": "Perfect Sapphire", "occu": "2"}
