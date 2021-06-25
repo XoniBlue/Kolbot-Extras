@@ -1,0 +1,15 @@
+{"keyword": "(4),Phase Blade,!ethereal,!oath", "occu": "1"}
+{"keyword": "(4),Giant Thresher,Ethereal,!Insight", "occu": "1"}
+{"keyword": "(4),Thresher,Ethereal,!giant,!Insight", "occu": "1"}
+{"keyword": "(4),Great Poleaxe,Ethereal,!Insight", "occu": "1"}
+{"keyword": "(4),Colossus Voulge,Ethereal,!Infinity", "occu": "1"}
+{"keyword": "(4),Cryptic Axe,Ethereal,!Insight", "occu": "1"}
+{"keyword": "(5),Giant Thresher,Ethereal,!obedience", "occu": "1"}
+{"keyword": "(5),Thresher,Ethereal,!obedience,!giant", "occu": "1"}
+{"keyword": "(5),Phase Blade,!ethereal,!death", "occu": "1"}
+{"keyword": "(5),Berserker Axe,Ethereal,!death", "occu": "1"}
+{"keyword": "(5),ettin Axe,Ethereal,!death", "occu": "1"}
+{"keyword": "(6),War Pike,Ethereal,!breath", "occu": "1"}
+{"keyword": "(6),Berserker Axe,Ethereal,!breath", "occu": "1"}
+{"keyword": "(6),Colossus Blade,Ethereal,!breath", "occu": "1"}
+{"keyword": "(6),Giant Thresher,Ethereal,!breath", "occu": "1"}

@@ -1,0 +1,20 @@
+{"keyword": "(4),dusk shroud,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),archon plate,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),sacred armor,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),dusk shroud,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),balrog skin,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Lacquered Plate,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Wyrmhide,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Scarab Husk,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Wire Fleece,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Great Hauberk,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Boneweave,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Shadow Plate,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Hellforge Plate,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Kraken Shell,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Hellforge Plate,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Diamond Mail,ethereal,!fort", "occu": "1"}
+{"keyword": "(4),Loricated Mail,ethereal,!fort", "occu": "1"}
+{"keyword": "(3),Archon plate,ethereal,!enigma", "occu": "1"}
+{"keyword": "(3),Sacred armor,ethereal,!enigma", "occu": "1"}
+{"keyword": "(2),Sacred armor,ethereal,!Prudence", "occu": "1"}
